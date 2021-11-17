@@ -69,6 +69,3 @@ height = 1.86 # float
 is_student = True # boolean
 
 print(f" - My last name is {surname}.\n - My height is {height}.\n -  My Weight is {weight}.\n - Student:{is_student}")
-
-
-

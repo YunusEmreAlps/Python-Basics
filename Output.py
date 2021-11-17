@@ -71,5 +71,3 @@ print(''' - If you choose to use your status and influence to raise your voice o
 
 # ----------
 print("+"*10) # Output:++++++++++
-
-
